@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+class {
+    position: absolute;
+    width: 174px;
+    height: 42px;
+    left: 784px;
+    top: 1150px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* or 150% */
+
+
+    color: #444444;
+}
